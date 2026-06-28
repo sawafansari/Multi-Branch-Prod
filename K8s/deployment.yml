@@ -15,7 +15,7 @@ templates:
 spec:
    containers:
     - name: movie-app
-      image: sawaf007/
+      image: sawaf007/multibranch-flask-app
       ports: 
        - containerPort: 5000
 
